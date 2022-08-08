@@ -5,6 +5,10 @@ import java.io.FileWriter;
 import java.util.HashMap;
 import java.util.PriorityQueue;
 
+/**
+* @author Ivy Aiwei Zhang
+*/
+
 public class HuffmanOperations {
     /**
      * Creates the frequency table: characters as keys and frequencies as value
